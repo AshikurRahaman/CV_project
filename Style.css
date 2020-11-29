@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #dbf6e9;
+}
+a {
+    color:green
+}
+
+img{
+    height: 220px;
+    width: 220px;
+    margin-top: 1%;
+}
+
+hr {
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color:gray;
+    border-width:5px;
+    width:10%;
+}
+
+h1, h3 {
+    color: #03506f;
+}
+
+img:hover {
+    background-color: wheat;
+}
+
+
+
+
+
